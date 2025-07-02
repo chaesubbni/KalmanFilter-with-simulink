@@ -1,5 +1,5 @@
 
-# Linear Kalman Filter with MATLAB simulink
+# Extended Kalman Filter with MATLAB simulink
 
 
 
